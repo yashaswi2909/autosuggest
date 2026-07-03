@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/yashaswi2909/autosuggest/issues"
   },
-  "homepage": "https://github.com/yashaswi2909/autosuggest#readme"
+  "homepage": "https://github.com/yashaswi2909/autosuggest#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
